@@ -1,5 +1,5 @@
 {
-  "discord": {
+  "discord": "https://discord.gg/8d8PD"{
     "email": "",
     "password": ""
     },
@@ -8,6 +8,7 @@
     "Giphy": "!giphy",
     "Imgur": "!img",
     "Urban": "!define"
+    "Hola": "!hola"
   },
   "giphy_key": "dc6zaTOxFJmzC",
   "imgur_key": "",
